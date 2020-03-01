@@ -1,0 +1,13 @@
+﻿  BallBase.cpp
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\BallBase.cpp(20,34): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\BallBase.cpp(21,34): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\BallBase.cpp(22,25): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\BallBase.cpp(23,25): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\BallBase.cpp(62,23): warning C4244: '-=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\BallBase.cpp(63,22): warning C4244: '-=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\BallBase.cpp(64,24): warning C4244: '+=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\BallBase.cpp(65,25): warning C4244: '+=': conversion from 'double' to 'LONG', possible loss of data
+  BallChild.cpp
+  CIS023_S2020_HW11 Miguel Antonio Logarta.cpp
+  Generating Code...
+  CIS023_S2020_HW11 Miguel Antonio Logarta.vcxproj -> D:\Desktop\CIS 022 HW\CIS023_S2020_HW11 Miguel Antonio Logarta\Debug\CIS023_S2020_HW11 Miguel Antonio Logarta.exe
